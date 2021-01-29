@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayofWeek", "DayofWeek\DayofWeek.csproj", "{6FF95F29-2C80-463C-85F2-792C025A784A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayofWeek", "DayofWeek\DayofWeek.csproj", "{6FF95F29-2C80-463C-85F2-792C025A784A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbersinReverseOrder", "PrintNumbersinReverseOrder\PrintNumbersinReverseOrder.csproj", "{FE2357D2-912C-4C9F-AE9A-A53F429C86D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintNumbersinReverseOrder", "PrintNumbersinReverseOrder\PrintNumbersinReverseOrder.csproj", "{FE2357D2-912C-4C9F-AE9A-A53F429C86D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundingNumbers", "RoundingNumbers\RoundingNumbers.csproj", "{9B89438D-B93D-4222-A215-99366EA3BBE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArrayofStrings", "ReverseArrayofStrings\ReverseArrayofStrings.csproj", "{19FDD638-E5CC-4996-BA55-7E695288F960}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{FE2357D2-912C-4C9F-AE9A-A53F429C86D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE2357D2-912C-4C9F-AE9A-A53F429C86D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE2357D2-912C-4C9F-AE9A-A53F429C86D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B89438D-B93D-4222-A215-99366EA3BBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B89438D-B93D-4222-A215-99366EA3BBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B89438D-B93D-4222-A215-99366EA3BBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B89438D-B93D-4222-A215-99366EA3BBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FDD638-E5CC-4996-BA55-7E695288F960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FDD638-E5CC-4996-BA55-7E695288F960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FDD638-E5CC-4996-BA55-7E695288F960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FDD638-E5CC-4996-BA55-7E695288F960}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
